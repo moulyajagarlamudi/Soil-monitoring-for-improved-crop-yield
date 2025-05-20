@@ -11,6 +11,7 @@ Temperature Sensor (LM35) to measure soil temperature
 Power Supply (5V from Arduino)
 
 HOW IT WORKS:
+
 Sensors collect data:
 The soil moisture sensor measures the water content in the soil.
 The temperature sensor measures the soil temperature.
