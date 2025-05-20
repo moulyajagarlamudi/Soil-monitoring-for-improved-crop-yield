@@ -1,10 +1,9 @@
 # Soil-monitoring-for-improved-crop-yield
 
-Objective: 
- 
+#Objective: 
 To monitor soil conditions in real-time by measuring soil moisture and temperature to help farmers optimize irrigation and improve crop yield.
 
-Components Used:  
+#Components Used:  
 Arduino Uno microcontroller board
 
 Soil Moisture Sensor to measure the moisture level in soil
@@ -15,7 +14,7 @@ Temperature Sensor (LM35) to measure soil temperature
 
 Power Supply (5V from Arduino)
 
-HOW IT WORKS:  
+#HOW IT WORKS:  
 Sensors collect data:
 The soil moisture sensor measures the water content in the soil.
 The temperature sensor measures the soil temperature.
